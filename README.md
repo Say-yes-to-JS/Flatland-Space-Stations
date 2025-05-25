@@ -12,16 +12,15 @@ The problem asks us to find the maximum distance from any city to its nearest sp
 
 1.  **Clone this Repository:**
     ```bash
-    git clone <repository_url>
+    git clone <https://github.com/Say-yes-to-JS/Flatland-Space-Stations.git>
     ```
-    (Replace `<repository_url>` with the actual URL of the repository.)
 
 2.  **Create a New Branch:**
-    Create a branch with your name (e.g., `git branch john-doe`).
+    Create a branch with your name (e.g., `git branch ridwan_kt`).
     ```bash
-    git checkout -b your-name
+    git checkout -b ridwan_kt
     ```
-    (Replace `your-name` with your actual name.)
+    (Replace `ridwan_kt` with your actual name.)
 
 3.  **Solve the Question:**
     Visit the HackerRank link provided above and implement your solution in JavaScript.
@@ -33,10 +32,10 @@ The problem asks us to find the maximum distance from any city to its nearest sp
     Copy your JavaScript solution code from HackerRank to your local IDE.
 
 6.  **Add Screenshot to Your Folder:**
-    Create a folder within this repository (e.g., `your-name-solution`) and place your screenshot inside it.
+    Create a folder within this repository (e.g., `images`) and place your screenshot inside it.
 
 7.  **Add Code to Your Folder:**
-    Save your JavaScript code file (e.g., `flatlandSpaceStations.js`) within the same folder you created in the previous step.
+    Save your JavaScript code file (e.g., `flatlandSpaceStations.js`) outside the same folder you created in the previous step.
 
 8.  **Push to Your Branch:**
     Commit your changes and push them to your newly created branch.
