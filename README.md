@@ -29,13 +29,13 @@ The problem asks us to find the maximum distance from any city to its nearest sp
     Once your solution passes all test cases on HackerRank, take a screenshot of your successful submission.
 
 5.  **Copy Your Code:**
-    Copy your JavaScript solution code from HackerRank to your local IDE.
+    Copy your whole JavaScript solution code from HackerRank, including the full code to your local IDE, and replace the FLatLandSpaceStation.js code with your code.
 
 6.  **Add Screenshot to Your Folder:**
     Create a folder within this repository (e.g., `images`) and place your screenshot inside it.
 
 7.  **Add Code to Your Folder:**
-    Save your JavaScript code file (e.g., `flatlandSpaceStations.js`) outside the same folder you created in the previous step.
+    Save your JavaScript code file (e.g., `flatlandSpaceStations.js`) by control S. 
 
 8.  **Push to Your Branch:**
     Commit your changes and push them to your newly created branch.
