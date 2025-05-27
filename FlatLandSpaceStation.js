@@ -26,7 +26,24 @@ function readLine() {
 
 // Complete the flatlandSpaceStations function below.
 function flatlandSpaceStations(n, c) {
-    var maxDistance = 0;
+    if(c.length==0 || c.length==n)return 0
+    c.sort((a,b)=>a-b);
+    
+    let lastStation=c[c.length-1];
+    let last=n-1;
+    let firstStation=c[0];
+    
+    if(c.length==1)return Math.max(firstStation, n-1-lastStation);
+     
+    var max = Math.max(firstStation, last-lastStation);
+    
+    for(let i=1; i<c.length; i++){
+        let mid = (c[i]+c[i-1])/2;
+        mid = Math.ceil(mid);
+        max = Math.max(max, c[i]-mid);
+    }
+    
+    return max;
 
 }
 
